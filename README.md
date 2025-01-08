@@ -1,4 +1,4 @@
-<img src="/images/spring.svg" width="50%"/><br/>
+<img src="/images/spring.svg" width="80%"/><br/>
 ## 개발 환경 설정
 1. **JDK 설치 및 환경 변수 설정**
     * [JDK 설치](https://www.oracle.com/kr/java/technologies/downloads/archive/)
@@ -119,8 +119,8 @@
       </details>
 4. **환경 구동 확인**
     * 프로젝트 우클릭 > Run As Spring Boot App<br/>
-      <img src="/images/console-check.png" width="50%"/>
+      <img src="/images/console-check.png" width="80%"/>
     * 브라우저에서 http://localhost:8080 접근하여 확인<br/>
-      <img src="/images/browser-check.png" width="50%"/>
+      <img src="/images/browser-check.png" width="80%"/>
 
 ## 추후 수정
