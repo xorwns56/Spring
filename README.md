@@ -1,4 +1,4 @@
-<img src="/images/spring.svg" width="80%"/><br/>
+<img src="/images/springboot.png" width="80%"/><br/>
 ## 개발 환경 설정
 1. **JDK 설치 및 환경 변수 설정**
     * [JDK 설치](https://www.oracle.com/kr/java/technologies/downloads/archive/)
